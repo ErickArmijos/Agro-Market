@@ -1,0 +1,200 @@
+Date : 2024-01-06 22:50:43
+Directory : c:\xampp\htdocs\GrupalTercerParcialAPI
+Total : 159 files,  19573 codes, 1073 comments, 2722 blanks, all 23368 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| PHP        |         77 |      8,702 |        513 |      1,129 |     10,344 |
+| CSS        |         11 |      6,687 |        506 |      1,321 |      8,514 |
+| HTML       |         64 |      3,811 |         24 |        207 |      4,042 |
+| JavaScript |          7 |        373 |         30 |         65 |        468 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                              |        159 |     19,573 |      1,073 |      2,722 |     23,368 |
+| . (Files)                                                                      |          1 |        170 |          9 |         22 |        201 |
+| Config                                                                         |          3 |         35 |          0 |         15 |         50 |
+| Controller                                                                     |          1 |          0 |          0 |          1 |          1 |
+| Model                                                                          |         31 |      3,537 |        126 |        590 |      4,253 |
+| View                                                                           |         16 |      2,121 |        106 |        324 |      2,551 |
+| clases                                                                         |          4 |         67 |          8 |         25 |        100 |
+| css                                                                            |         10 |      6,666 |        506 |      1,320 |      8,492 |
+| fpdf186                                                                        |         86 |      6,604 |        288 |        360 |      7,252 |
+| fpdf186 (Files)                                                                |          4 |      2,118 |        167 |        128 |      2,413 |
+| fpdf186\doc                                                                    |         49 |      1,934 |          0 |         55 |      1,989 |
+| fpdf186\font                                                                   |         14 |        248 |          0 |         14 |        262 |
+| fpdf186\makefont                                                               |          2 |      1,049 |         44 |         70 |      1,163 |
+| fpdf186\tutorial                                                               |         17 |      1,255 |         77 |         93 |      1,425 |
+| js                                                                             |          7 |        373 |         30 |         65 |        468 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                       | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Config\Conexion.php                     | PHP        |          3 |          0 |          0 |          3 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Config\config.php                       | PHP        |          9 |          0 |          6 |         15 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Config\database.php                     | PHP        |         23 |          0 |          9 |         32 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Controller\Controlador.php              | PHP        |          0 |          0 |          1 |          1 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Index.html                              | HTML       |        170 |          9 |         22 |        201 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\AggCategoria.php                  | PHP        |         13 |          0 |          1 |         14 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\AgregarCategoria.php              | PHP        |         12 |          0 |          5 |         17 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\CategoriasMod.php                 | PHP        |         17 |          0 |          0 |         17 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Categorias_EditarEliminar.php     | PHP        |         22 |          0 |          0 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\DetallesProductos.php             | PHP        |        279 |         14 |         74 |        367 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\EditarCategoria.php               | PHP        |         53 |          1 |          5 |         59 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\EditarProducto.php                | PHP        |        190 |         18 |         47 |        255 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\EditarVCategoria.php              | PHP        |         15 |          0 |          2 |         17 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\EliminarCategoria.php             | PHP        |         35 |          0 |         11 |         46 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\EliminarProducto.php              | PHP        |         34 |          2 |          3 |         39 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\ProductosDetalles.php             | PHP        |        167 |         18 |         41 |        226 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Productos_Editar-Eliminar.php     | PHP        |         28 |          0 |          3 |         31 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Reporte1.php                      | PHP        |         35 |          6 |          7 |         48 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Reporte2.php                      | PHP        |         37 |          6 |          8 |         51 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Reporte3.php                      | PHP        |         48 |          6 |          9 |         63 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Reporte4.php                      | PHP        |         40 |          6 |         10 |         56 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\Reporte5.php                      | PHP        |         36 |          6 |         13 |         55 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\buscarProductoID.php              | PHP        |         43 |          0 |          7 |         50 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\cerrarSesion.php                  | PHP        |          7 |          0 |          3 |         10 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\checkout.php                      | PHP        |        312 |         12 |         65 |        389 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\controlesCategoria.php            | PHP        |         21 |          2 |          0 |         23 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\controlesProducto.php             | PHP        |         26 |          0 |          2 |         28 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\editarProdSQL.php                 | PHP        |         41 |          0 |          8 |         49 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\inicioSesion.php                  | PHP        |         23 |          1 |          2 |         26 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\insertarProducto.php              | PHP        |         31 |          0 |          1 |         32 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\modal.php                         | PHP        |        696 |          8 |         86 |        790 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\principalUsuario2.php             | PHP        |        673 |          9 |         88 |        770 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\principalUsuarioBC.php            | PHP        |        528 |          4 |         71 |        603 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\registroUsuario.php               | PHP        |         19 |          1 |          4 |         24 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\reserva.php                       | PHP        |         40 |          6 |         13 |         59 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\Model\ventana_modal.php                 | PHP        |         16 |          0 |          1 |         17 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Nuevacategoria.php                 | PHP        |         88 |          1 |          6 |         95 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Plantilla.php                      | PHP        |         21 |         10 |          4 |         35 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Plantilla2.php                     | PHP        |         21 |         10 |          4 |         35 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Plantilla3.php                     | PHP        |         21 |         10 |          4 |         35 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Plantilla4.php                     | PHP        |         21 |         10 |          4 |         35 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Plantilla5.php                     | PHP        |         21 |         10 |          4 |         35 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\Reportes.html                      | HTML       |         44 |          0 |          4 |         48 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\administrador.php                  | PHP        |        111 |          0 |         20 |        131 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\ayuda.html                         | HTML       |         76 |          4 |          6 |         86 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\ayudaAdmin.html                    | HTML       |        195 |          4 |         13 |        212 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\categorias.php                     | PHP        |         82 |          0 |          8 |         90 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\login.html                         | HTML       |         94 |          7 |         29 |        130 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\login.php                          | PHP        |        187 |          0 |         44 |        231 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\nuevoProducto.php                  | PHP        |        210 |         18 |         54 |        282 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\principalUsuario.php               | PHP        |        671 |          8 |         76 |        755 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\View\productos.php                      | PHP        |        258 |         14 |         44 |        316 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\clases\actualizarCantidadE.php          | PHP        |         11 |          4 |          4 |         19 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\clases\actualizarCantidadS.php          | PHP        |         11 |          4 |          5 |         20 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\clases\carrito.php                      | PHP        |         23 |          0 |         10 |         33 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\clases\eliminar_carrito.php             | PHP        |         22 |          0 |          6 |         28 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\ayudaAdmin.css                      | CSS        |         71 |          2 |          7 |         80 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilo_ayuda.css                    | CSS        |         67 |          2 |          7 |         76 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilo_login.css                    | CSS        |        217 |          1 |          0 |        218 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilos_administrador.css           | CSS        |      1,057 |         48 |        200 |      1,305 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilos_administrador2.css          | CSS        |      1,006 |         43 |        197 |      1,246 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilos_administrador22.css         | CSS        |        983 |         43 |        197 |      1,223 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilos_administradorCat.css        | CSS        |      1,044 |         48 |        201 |      1,293 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\estilos_index1.css                  | CSS        |        487 |         23 |        107 |        617 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\principalUsuario.css                | CSS        |        867 |        148 |        202 |      1,217 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\css\principalUsuario2.css               | CSS        |        867 |        148 |        202 |      1,217 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\FAQ.htm                         | HTML       |        238 |          0 |         29 |        267 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\changelog.htm                   | HTML       |        188 |          0 |          1 |        189 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\__construct.htm             | HTML       |         62 |          0 |          1 |         63 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\acceptpagebreak.htm         | HTML       |         59 |          0 |          4 |         63 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\addfont.htm                 | HTML       |         66 |          0 |          1 |         67 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\addlink.htm                 | HTML       |         24 |          0 |          1 |         25 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\addpage.htm                 | HTML       |         57 |          0 |          1 |         58 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\aliasnbpages.htm            | HTML       |         43 |          0 |          2 |         45 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\cell.htm                    | HTML       |        101 |          0 |          1 |        102 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\close.htm                   | HTML       |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\error.htm                   | HTML       |         26 |          0 |          1 |         27 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\footer.htm                  | HTML       |         35 |          0 |          1 |         36 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\getpageheight.htm           | HTML       |         18 |          0 |          1 |         19 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\getpagewidth.htm            | HTML       |         18 |          0 |          1 |         19 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\getstringwidth.htm          | HTML       |         23 |          0 |          1 |         24 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\getx.htm                    | HTML       |         20 |          0 |          1 |         21 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\gety.htm                    | HTML       |         20 |          0 |          1 |         21 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\header.htm                  | HTML       |         35 |          0 |          1 |         36 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\image.htm                   | HTML       |        101 |          0 |          1 |        102 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\index.htm                   | HTML       |         59 |          0 |          1 |         60 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\line.htm                    | HTML       |         38 |          0 |          1 |         39 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\link.htm                    | HTML       |         45 |          0 |          1 |         46 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\ln.htm                      | HTML       |         27 |          0 |          2 |         29 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\multicell.htm               | HTML       |         73 |          0 |          1 |         74 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\output.htm                  | HTML       |         47 |          0 |          1 |         48 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\pageno.htm                  | HTML       |         18 |          0 |          1 |         19 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\rect.htm                    | HTML       |         48 |          0 |          1 |         49 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setauthor.htm               | HTML       |         33 |          0 |          1 |         34 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setautopagebreak.htm        | HTML       |         31 |          0 |          1 |         32 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setcompression.htm          | HTML       |         29 |          0 |          1 |         30 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setcreator.htm              | HTML       |         33 |          0 |          1 |         34 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setdisplaymode.htm          | HTML       |         46 |          0 |          1 |         47 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setdrawcolor.htm            | HTML       |         41 |          0 |          2 |         43 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setfillcolor.htm            | HTML       |         40 |          0 |          1 |         41 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setfont.htm                 | HTML       |         72 |          0 |          1 |         73 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setfontsize.htm             | HTML       |         25 |          0 |          1 |         26 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setkeywords.htm             | HTML       |         33 |          0 |          1 |         34 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setleftmargin.htm           | HTML       |         30 |          0 |          1 |         31 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setlinewidth.htm            | HTML       |         28 |          0 |          1 |         29 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setlink.htm                 | HTML       |         34 |          0 |          1 |         35 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setmargins.htm              | HTML       |         36 |          0 |          1 |         37 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setrightmargin.htm          | HTML       |         28 |          0 |          1 |         29 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setsubject.htm              | HTML       |         33 |          0 |          1 |         34 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\settextcolor.htm            | HTML       |         39 |          0 |          1 |         40 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\settitle.htm                | HTML       |         33 |          0 |          1 |         34 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\settopmargin.htm            | HTML       |         28 |          0 |          1 |         29 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setx.htm                    | HTML       |         28 |          0 |          1 |         29 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\setxy.htm                   | HTML       |         30 |          0 |          1 |         31 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\sety.htm                    | HTML       |         33 |          0 |          1 |         34 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\text.htm                    | HTML       |         37 |          0 |          1 |         38 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\doc\write.htm                   | HTML       |         50 |          0 |          1 |         51 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\courier.php                | PHP        |         10 |          0 |          1 |         11 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\courierb.php               | PHP        |         10 |          0 |          1 |         11 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\courierbi.php              | PHP        |         10 |          0 |          1 |         11 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\courieri.php               | PHP        |         10 |          0 |          1 |         11 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\helvetica.php              | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\helveticab.php             | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\helveticabi.php            | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\helveticai.php             | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\symbol.php                 | PHP        |         20 |          0 |          1 |         21 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\times.php                  | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\timesb.php                 | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\timesbi.php                | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\timesi.php                 | PHP        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\font\zapfdingbats.php           | PHP        |         20 |          0 |          1 |         21 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\fpdf.css                        | CSS        |         21 |          0 |          1 |         22 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\fpdf.php                        | PHP        |      1,671 |        167 |         97 |      1,935 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\makefont\makefont.php           | PHP        |        401 |         23 |         24 |        448 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\makefont\ttfparser.php          | PHP        |        648 |         21 |         46 |        715 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\CevicheOne-Regular.php | PHP        |         25 |          0 |          1 |         26 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\index.htm              | HTML       |         20 |          0 |          1 |         21 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\makefont.php           | PHP        |          4 |          1 |          2 |          7 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto1.htm              | HTML       |         79 |          0 |          2 |         81 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto1.php              | PHP        |          8 |          0 |          2 |         10 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto2.htm              | HTML       |         81 |          0 |          4 |         85 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto2.php              | PHP        |         27 |         11 |          4 |         42 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto3.htm              | HTML       |        109 |          0 |          8 |        117 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto3.php              | PHP        |         55 |         19 |          8 |         82 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto4.htm              | HTML       |        122 |          0 |         11 |        133 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto4.php              | PHP        |         81 |         18 |         11 |        110 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto5.htm              | HTML       |        132 |          0 |          6 |        138 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto5.php              | PHP        |         79 |         18 |          6 |        103 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto6.htm              | HTML       |        151 |          0 |          9 |        160 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto6.php              | PHP        |         95 |         10 |          9 |        114 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto7.htm              | HTML       |        178 |          0 |          7 |        185 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\fpdf186\tutorial\tuto7.php              | PHP        |          9 |          0 |          2 |         11 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\CerrarSesion.js                      | JavaScript |          6 |          0 |          1 |          7 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\EdicionCateg.js                      | JavaScript |          9 |          0 |          0 |          9 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\app_ayuda.js                         | JavaScript |          9 |          0 |          2 |         11 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\app_index.js                         | JavaScript |          3 |          0 |          3 |          6 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\login_index.js                       | JavaScript |        136 |         19 |         26 |        181 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\newCategoria.js                      | JavaScript |         96 |          4 |         16 |        116 |
+| c:\xampp\htdocs\GrupalTercerParcialAPI\js\nuevProducto.js                      | JavaScript |        114 |          7 |         17 |        138 |
+| Total                                                                          |            |     19,573 |      1,073 |      2,722 |     23,368 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
